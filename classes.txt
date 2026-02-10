@@ -1,0 +1,8 @@
+Very Light
+Light
+Moderately Light
+Light Medium
+Medium
+Moderately Dark
+Dark
+Very Dark
