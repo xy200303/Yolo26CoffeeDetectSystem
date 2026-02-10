@@ -4,3 +4,4 @@ onnxruntime
 PyQt6
 PyQt6-Fluent-Widgets
 pyinstaller
+ultralytics
